@@ -1,0 +1,26 @@
+Column,Data_Type,Null_Count,Unique_Values,Sample_Value,Business_Meaning
+ORDERNUMBER,int64,0,307,10107,Unique order number
+QUANTITYORDERED,int64,0,58,30,Quantity of items ordered
+PRICEEACH,float64,0,1016,95.7,Price of each item
+ORDERLINENUMBER,int64,0,18,2,Order line number
+SALES,float64,0,2763,2871.0,Total sales amount
+ORDERDATE,str,0,252,2/24/2003 0:00,Date of order
+STATUS,str,0,6,Shipped,Order status
+QTR_ID,int64,0,4,1,Quarter ID
+MONTH_ID,int64,0,12,2,Month ID
+YEAR_ID,int64,0,3,2003,Year ID
+PRODUCTLINE,str,0,7,Motorcycles,Product line/category
+MSRP,int64,0,80,95,Manufacturer suggested retail price
+PRODUCTCODE,str,0,109,S10_1678,Product code
+CUSTOMERNAME,str,0,92,Land of Toys Inc.,Customer name
+PHONE,str,0,91,2125557818,Phone number
+ADDRESSLINE1,str,0,92,897 Long Airport Avenue,Address line 1
+ADDRESSLINE2,str,2521,9,,Address line 2
+CITY,str,0,73,NYC,City
+STATE,str,1486,16,NY,State
+POSTALCODE,str,76,73,10022,Postal code
+COUNTRY,str,0,19,USA,Country
+TERRITORY,str,1074,3,,Territory
+CONTACTLASTNAME,str,0,77,Yu,Contact last name
+CONTACTFIRSTNAME,str,0,72,Kwai,Contact first name
+DEALSIZE,str,0,3,Small,Deal size
